@@ -24,3 +24,5 @@ happy mining
 ping wise shud be aslow as 12 to 14 on test.
 tested on 2miners k1pool and herominers
 
+works on all windows windows 7 8 10 11
+

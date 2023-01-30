@@ -1,4 +1,4 @@
-# sharedropper
+# sharedropper proxy miner
 proxy miner with large shares only ignore low shares
 
 how to setup

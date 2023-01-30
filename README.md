@@ -22,4 +22,5 @@ now hit run on proxy
 happy mining
 
 ping wise shud be aslow as 12 to 14 on test.
+tested on 2miners k1pool and herominers
 
